@@ -69,7 +69,7 @@ def extract_bibliography_section(text: str, keywords: List[str] = [
     # French
     "Références", "Bibliographie",
     # German
-    "Literaturverzeichnis", "Quellenverzeichnis",
+    "Literaturverzeichnis", "Quellenverzeichnis", "Literatur", "Quellen",
     # Spanish
     "Referencias", "Bibliografía",
     # Russian
